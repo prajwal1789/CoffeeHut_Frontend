@@ -9,3 +9,6 @@ Espresso-Based Gourmet Menu
 -Latte-Smooth espresso combined with steamed milk and topped with a thin layer of foam.
 
 -Caramel Macchiato-An espresso and steamed milk beverage layered with vanilla syrup and finished with caramel drizzle.
+
+
+20% discount on all Espresso-Based Gourmet products for users with 'loyal' user profile using Coffehut_Wallet payment option.
